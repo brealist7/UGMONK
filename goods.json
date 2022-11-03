@@ -1,0 +1,86 @@
+{
+    "1234": {
+        "name": "Men's Essential Tee",
+        "cost": 32,
+        "description": "Sage",
+        "order": 3,
+        "img": "tshirt1.png"
+    },
+    "1235": {
+        "name": "Men's Essential Tee",
+        "cost": 32,
+        "description": "Black Tribeland",
+        "order": 5,
+        "img": "tshirt2.png"
+    },
+    "1236": {
+        "name": "Circular",
+        "cost": 32,
+        "description": "Charcoal",
+        "order": 1,
+        "img": "tshirt3.png"
+    },
+    "1237": {
+        "name": "Smell the Roses",
+        "cost": 32,
+        "description": "Black",
+        "order": 8,
+        "img": "tshirt4.png"
+    },
+    "1238": {
+        "name": "Vision",
+        "cost": 32,
+        "description": "Washed Indigo",
+        "order": 3,
+        "img": "tshirt5.png"
+    },
+    "1239": {
+        "name": "Men's Essential Tee",
+        "cost": 32,
+        "description": "Canyon",
+        "order": 5,
+        "img": "tshirt6.png"
+    },
+    "1240": {
+        "name": "Men's Essential Tee",
+        "cost": 32,
+        "description": "Bright White",
+        "order": 1,
+        "img": "tshirt7.png"
+    },
+    "1241": {
+        "name": "Men's Essential Tee",
+        "cost": 32,
+        "description": "Deep Forest",
+        "order": 8,
+        "img": "tshirt8.png"
+    },
+    "1242": {
+        "name": "Facet",
+        "cost": 32,
+        "description": "Black",
+        "order": 3,
+        "img": "tshirt9.png"
+    },
+    "1243": {
+        "name": "Mountains",
+        "cost": 32,
+        "description": "Heather Gray Triblend",
+        "order": 5,
+        "img": "tshirt10.png"
+    },
+    "1244": {
+        "name": "Mountains",
+        "cost": 32,
+        "description": "Classic Black",
+        "order": 1,
+        "img": "tshirt11.png"
+    },
+    "1245": {
+        "name": "Men's Essential Tee",
+        "cost": 32,
+        "description": "Heather Gray Triblend",
+        "order": 8,
+        "img": "tshirt12.png"
+    }
+}
